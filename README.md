@@ -63,7 +63,7 @@ We get , R1 =	and hence Rf =
 ## TABULATION
 | Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
 |----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |    1.68                      |     380                        |  2.63                        1.12 |                        380   |                         2.63     |                            |
+| Sine Wave      |    1.68                      |     380                        |  2.63                        1.12 |                        380   |                         2.63     |     2.63                       |
 | Square Wave    |         1.56                 |     380                        |   2.63                        |  2.52                         |  380                            |   2.63                         |
 		
 
