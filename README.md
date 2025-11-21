@@ -63,13 +63,14 @@ We get , R1 =	and hence Rf =
 ## TABULATION
 | Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
 |----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
+| Sine Wave      |    1.68                      |     380                        |  2.63                        1.12 |                        380   |                         2.63     |                            |
+| Square Wave    |         1.56                 |     380                        |   2.63                        |  2.52                         |  380                            |   2.63                         |
 		
 
 ---
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![integrator](https://github.com/user-attachments/assets/e9199a92-9ee5-4d95-8560-94a5e10621c5)
 
 
 ---
@@ -151,11 +152,12 @@ We get, CF = (1.59*103*10-7) / 15.9*103
  ## TABULATION
 | Waveform Type | **Input Amplitude (V)** | **Input Time Period (ms)** | **Input Frequency (Hz)** | **Output Amplitude (V)** | **Output Time Period (ms)** | **Output Frequency (Hz)** |
 |----------------|--------------------------|-----------------------------|---------------------------|---------------------------|------------------------------|----------------------------|
-| Sine Wave      |                          |                             |                           |                           |                              |                            |
-| Square Wave    |                          |                             |                           |                           |                              |                            |
+| Sine Wave      |  1.56                        |    380                         |   2.13                        | 1.76                          |   380                           |       216.3                     |
+| Square Wave    |       1.4                   |               380              |            2.63               |             0.7              |                  380            |           2.63                 |
 		
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
+![differntiator](https://github.com/user-attachments/assets/e2bd45df-804d-4d61-832e-6f5ccb744b61)
 
 ---
 
